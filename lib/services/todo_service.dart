@@ -4,7 +4,7 @@ import '../models/todo.dart';
 
 class TodoService {
   // Change this to your backend URL (use your machine's IP if running on emulator)
-  static const String baseUrl = 'http://192.168.232.134:8080/api/todos';
+  static const String baseUrl = 'http://192.168.177.134:8080/api/todos';
 
   // Get all todos
   Future<List<Todo>> getAllTodos() async {

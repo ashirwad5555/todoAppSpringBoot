@@ -1,0 +1,7 @@
+target/
+!target/*.jar
+.git
+.github
+.gitignore
+.mvn
+README.md

@@ -11,6 +11,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
+//to run the spring boot backend : mvn spring-boot:run
+
 @Service
 public class TodoService {
 
